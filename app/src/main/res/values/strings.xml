@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AndruinoTemp</string>
+    <string name="measure_default">00.00</string>
+    <string name="ip_hint">Dirección IP:</string>
+    <string name="port_hint">Puerto:</string>
+    <string name="ip_autofillhint">Ej: 192.168.0.1</string>
+    <string name="port_autofillhint">Ej: 8080</string>
+    <string name="connect_buttontext">Conectar</string>
+    <string name="temp_title">Temperatura</string>
+    <string name="hum_title">Humedad</string>
+</resources>
